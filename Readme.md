@@ -1,10 +1,10 @@
 # Web Development Project 7 - *Project Crewmate*
 
-Submitted by: **Pratyush Khanal**
+Submitted by: **Aditya Karki**
 
 This web app: **A webapp to add a list of crew members that demonstrates features like CRUD operations, API Calls, and Supabase databases.**
 
-Time spent: **12** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -30,13 +30,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src ="ezgif.com-video-to-gif (7).gif">
+https://user-images.githubusercontent.com/68220732/231021856-ca9f3454-87ad-4847-a35a-f9e137d06984.mp4
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Pratyush Khanal]
+    Copyright [2023] [ADITYA KARKI]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
