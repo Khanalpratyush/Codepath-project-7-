@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://user-images.githubusercontent.com/68220732/231021856-ca9f3454-87ad-4847-a35a-f9e137d06984.mp4
+<img src ="ezgif.com-video-to-gif (7).gif">
 
 Describe any challenges encountered while building the app.
 
